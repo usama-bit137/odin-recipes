@@ -2,14 +2,20 @@
 
 .ingredients{ 
     background-color:rgb(194, 226, 194);
-    width: 200px;
-    border: 10px;
-    padding: 10px; 
-}
-
-.method{ 
-    background-color: rgb(194, 226, 194); 
     width: 500px;
     border: 10px;
     padding: 10px; 
+    border: 20px;
+}
+
+
+img {
+    border-radius: 100px;
+    height: 500px;
+    float: left;
+  }
+
+.desc{
+padding-left: 10px; 
+width: 200px;
 }
