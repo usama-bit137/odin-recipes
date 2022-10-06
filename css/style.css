@@ -1,4 +1,6 @@
-
+body {
+font-family: sans-serif;
+}
 
 .ingredients{ 
     background-color:rgb(194, 226, 194);
@@ -12,10 +14,11 @@
 img {
     border-radius: 100px;
     height: 500px;
-    float: left;
+    opacity: 0.5;
+
   }
 
 .desc{
 padding-left: 10px; 
-width: 200px;
+width: 500px;
 }
