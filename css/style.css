@@ -1,5 +1,5 @@
 body {
-font-family: sans-serif;
+font-family: 'Times New Roman', Times, serif;
 }
 
 .ingredients{ 
@@ -14,7 +14,7 @@ font-family: sans-serif;
 img {
     border-radius: 100px;
     height: 500px;
-    opacity: 0.5;
+    opacity: 0.9;
 
   }
 
