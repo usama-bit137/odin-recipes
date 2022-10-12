@@ -1,9 +1,12 @@
 body {
 font-family: 'Times New Roman', Times, serif;
+background-color: rgb(194, 226, 194);
+font-size: 40px;
+padding-left: 100px;
 }
 
 .ingredients{ 
-    background-color:rgb(194, 226, 194);
+    background-color:rgb(194, 210, 194);
     width: 500px;
     border: 10px;
     padding: 10px; 
@@ -19,6 +22,17 @@ img {
   }
 
 .desc{
-padding-left: 10px; 
+padding-left: 100px; 
 width: 500px;
+}
+
+h1 {
+  text-align: center;
+  background-color:rgb());
+  color:rgb(124, 179, 124);
+  padding: 10px;
+}
+
+.list {
+  padding: 10px;
 }
